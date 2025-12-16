@@ -2,17 +2,22 @@
 ## 2766252J
 ## Portfolio 
 
-## This project will further help me develop my knowledge of github 
-## Aims 
-- I aim to create a clear and well organised portfiolio displaying work
-- I aim to be able to use the basic github tools
-- I aim to sucsessfully use Python and Jupyter notebook within this portfolio
-- I aim to learn and understand some baic programming concepts, through using micrisoft copilot
-- I aim to gain an understanding of how the python program is used
-- To be able to read basic code and further my ability in communicating code
-## Personal goals
-- I would like to become more confident using github
-- I would like to develop a further understanding of github
-- I would like to be able to understand the basics of Python and Jupyter notebook
-- I would like to expand my knowledge on how algorythims work
-- I would like to become confident when working with code in general
+## This project will further help develop my knowledge and understanding of programming concepts 
+
+## Aims within completion of this portfolio: 
+- To create a clear and well organised portfiolio displaying tasks and reflection.
+- To be able to understand and use basic github tools.
+- To sucsessfully use Python and Jupyter notebook within this portfolio.
+- To learn and understand some baic programming concepts, through using Micrisoft Copilot.
+- Reflect and understand the importance of Microsoft Copilot.
+- To gain an understanding of how the Python program is used
+- To be able to read basic code and further ability in communicating code
+- To demonstrate understanding of tasks by incorperating critical reflection
+- To display problem solving skills by reffering to peers, literature or Copilot when faced with errors.
+
+## Resources and Tools used within notebooks:
+- Microsoft Copilot
+- Python
+- Jupyter Notebook
+- Refrences to lectures from, AI for the Arts (honours program) course (University of Glasgow), directed and created by Yunhyong Kim
+- Academic sources used, are awknowledged and linked within markdowns at relevant points
