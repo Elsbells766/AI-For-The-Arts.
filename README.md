@@ -20,4 +20,4 @@
 - Python
 - Jupyter Notebook
 - Refrences to lectures from, AI for the Arts (honours program) course (University of Glasgow), directed and created by Yunhyong Kim
-- Academic sources used, are awknowledged and linked within markdowns at relevant points
+- Academic sources/other rosources used, are awknowledged and linked within markdowns at relevant points
